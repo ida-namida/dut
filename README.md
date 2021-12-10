@@ -1,6 +1,6 @@
 # dang
 
-This is a simple and (currently) deterministic decision rule execution service written in [Go](https://go.dev). Inspired by [Jboss' KIE]https://docs.jboss.org/drools/release/7.49.0.Final/drools-docs/html_single/index.html#_kiechapter)
+This is a simple and (currently) deterministic decision rule execution service written in [Go](https://go.dev). Inspired by [Jboss' KIE](https://docs.jboss.org/drools/release/7.49.0.Final/drools-docs/html_single/index.html#_kiechapter)
 
 ## Limitations
 
